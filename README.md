@@ -88,4 +88,4 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 Oguz Erdem
 
 ## Acknowledgments
-Special thanks to my project group (Oğuz Erdem, Hasan Murtaza Kolomuç, Ahmet Buğra Dilci, Atakan Başaran, Sıla Titiz) for their contributions to the project.
+Special thanks to my project group (Umarbek Guvercin, Hasan Murtaza Kolomuç, Ahmet Buğra Dilci, Atakan Başaran, Sıla Titiz) for their contributions to the project.
